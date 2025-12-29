@@ -1,0 +1,5 @@
+{
+  "name": "부품 제품 엑셀29 Inventory Management System",
+  "description": "A web application to manage product inventory, track purchases, releases, and view stock history.",
+  "requestFramePermissions": []
+}
