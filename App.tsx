@@ -8,7 +8,7 @@ import { PlusIcon, BoxIcon, SearchIcon, TrashIcon, DownloadIcon, CloudIcon, Sett
 const STORAGE_KEY = 'inventory_system_data_v2';
 const DRIVE_CONFIG_KEY = 'inventory_drive_config';
 const ADMIN_PASSWORD = '0000';
-const PRODUCT_ONLY_PASSWORD = '1111';
+const PRODUCT_ONLY_PASSWORD = '2222';
 
 const SCOPES = 'https://www.googleapis.com/auth/drive.file';
 
